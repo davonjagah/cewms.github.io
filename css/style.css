@@ -51,7 +51,7 @@ section a {
 section a:hover,
 .signin-label .reset-link:hover,
 footer a:hover {
-  color: #00cda7;
+  color: #318f41;
   text-decoration: none;
 }
 
@@ -74,7 +74,7 @@ section.tagline {
       rgba(41, 41, 41, 0.4),
       rgba(41, 41, 41, 0.4)
     ),
-    url("../images/clean.jpg");
+    url("https://cdni0.trtworld.com/w960/h540/q75/50044_GettyImages536200276_1550233633085.jpg");
 }
 .branding-tagline {
   background-image: linear-gradient(
@@ -97,7 +97,7 @@ section.tagline {
       rgba(41, 41, 41, 0.4),
       rgba(41, 41, 41, 0.4)
     ),
-    url("https://res.cloudinary.com/ademolamadelewi/image/upload/f_auto,q_auto/v1606513781/farmers/Rectangle_83_ucj3pc.jpg");
+    url("https://media.mehrnews.com/d/2018/09/23/4/2907236.jpg");
   height: 30vh !important;
 }
 .tagline-texts {
@@ -125,7 +125,7 @@ section.tagline {
   display: inline-block;
   width: 180px;
   height: 50px;
-  background: #00cda7;
+  background: #318f41;
   border-radius: 7px;
   text-transform: uppercase;
   border: 0;
@@ -154,13 +154,13 @@ section.tagline {
 .services-header-icon {
   height: 30px;
   width: 30px;
-  color: #00cda7;
+  color: #318f41;
 }
 .shadow-color-image {
   position: relative;
   height: 300px;
   width: 300px;
-  background: #00cda7;
+  background: #318f41;
 }
 .shadow-color-image img {
   position: absolute;
@@ -270,7 +270,7 @@ footer ul li {
 }
 .subscribe-form .submit-btn {
   border-radius: 0 5px 5px 0;
-  background: #00cda7;
+  background: #318f41;
   text-transform: uppercase;
   font-weight: 500;
   color: white;
@@ -303,8 +303,8 @@ footer ul li {
   background-color: white;
 }
 .start-btn {
-  border: 1px solid #00cda7;
-  color: #00cda7;
+  border: 1px solid #318f41;
+  color: #318f41;
   border-radius: 10px;
   font-weight: bold;
   min-width: 150px;
@@ -322,11 +322,11 @@ footer ul li {
   min-width: 150px;
   height: 50px;
   color: white;
-  background-color: #00cda7;
+  background-color: #318f41;
 }
 
 .start-btn:hover {
-  background-color: #00cda7;
+  background-color: #318f41;
   color: white;
   transition: all 0.2s ease-in-out;
 }
@@ -445,10 +445,10 @@ label {
   color: white;
 }
 .commerce-header h4 span {
-  border-bottom: 2px solid #00cda7;
+  border-bottom: 2px solid #318f41;
 }
 .verify-link {
-  color: #00cda7 !important;
+  color: #318f41 !important;
 }
 @media (min-width: 1024.98px) {
   #tawkModal .modal-body,

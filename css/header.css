@@ -65,21 +65,21 @@
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show > .nav-link {
-  color: #00cda7 !important;
+  color: #318f41 !important;
 }
 .dropdown-menu {
   left: auto;
 }
 
 .create-account-btn {
-  background: #00cda7;
+  background: #318f41;
   border-radius: 9.16667px;
   color: white !important;
 }
 
 .nav-link:hover,
 .dropdown-item:hover {
-  color: #00cda7 !important;
+  color: #318f41 !important;
 }
 .nav-link.create-account-btn:hover {
   opacity: 0.9;
